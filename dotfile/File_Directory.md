@@ -4,3 +4,4 @@
 - **[桌面安装](Desktopinstall.md)**
 - **[Pacman软件包管理器](Pacman.md)**
 - **[Waybar配置](waybar_config.md)**
+- **[Shell零基础教程](Shell_script.md)**
