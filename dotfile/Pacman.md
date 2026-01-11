@@ -1,4 +1,5 @@
 **[返回文件目录](File_Directory.md)**
+
 [Pacman](https://pacman.archlinux.page/)[软件包管理器](https://en.wikipedia.org/wiki/Package_management_system "wikipedia:Package management system")是 Arch Linux 发行版的一大亮点。它将一个简单的二进制包格式和易用的[构建系统](https://wiki.archlinuxcn.org/wiki/Arch_Build_System "Arch Build System")结合了起来。_Pacman_的目标是简化对软件包的管理，无论软件包是来自[官方软件仓库](https://wiki.archlinuxcn.org/wiki/Official_repositories "Official repositories")还是用户自己创建的软件包。
 
 Pacman 通过和主服务器同步软件包列表来保持系统是最新的。这种服务器/客户端模式可使得用户使用简单的命令，就能下载或安装软件包，并包含其所有必需的依赖包。
